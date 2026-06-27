@@ -1,0 +1,1 @@
+import{o as e}from"./dist-Wr-HZznP.js";import{m as t}from"./ErrorModal-DA_2Mfg5.js";import{t as n}from"./ClientForm-BO9NOeMR.js";var r=e();function i(){return(0,r.jsx)(t,{title:`Nuevo cliente`,subtitle:`Registra un nuevo cliente.`,children:(0,r.jsx)(n,{existing:null})})}export{i as component};
